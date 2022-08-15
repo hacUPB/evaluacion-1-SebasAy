@@ -27,7 +27,7 @@ for details.
 
 Entramos al repositorio luego con ayuda de la consola lo clonamos y procedimos a hacerle cambios al archivo wcat.c para luego subirlo de vuelta al repositorio.
 
-![Imagen](https://github.com/hacUPB/evaluacion-1-SebasAy/blob/main/Sisa.png)
+![Imagen](https://customers.seomanager.com/knowledgegraph/logo/sisa-collection_myshopify_com_logo.png)
 
 [Hipervinculo](https://github.com/hacUPB/evaluacion-1-SebasAy)
 
