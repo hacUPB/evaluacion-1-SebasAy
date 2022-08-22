@@ -23,5 +23,19 @@ the relevant
 [README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
 for details.
 
+# EVALUACION 1
+
+Entramos al repositorio luego con ayuda de la consola lo clonamos y procedimos a hacerle cambios al archivo wcat.c para luego subirlo de vuelta al repositorio.
+
+![Imagen](https://customers.seomanager.com/knowledgegraph/logo/sisa-collection_myshopify_com_logo.png)
+
+[Hipervinculo](https://github.com/hacUPB/evaluacion-1-SebasAy)
+
+1. git clone https://github.com/hacUPB/evaluacion-1-SebasAy.git
+2. git add wcat.c
+3. git commit -am "El comentario"
+4. git push
+
+
 
 
